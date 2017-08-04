@@ -4,4 +4,4 @@ casper.start('http://domain.tld/page.html', function() {
     this.test.assertExists(x('//*[@id="plop"]'), 'the element exists');
 });
 
-//with a selectXPath helper is available from the casper
+//a selectXPath helper is available from the casper
