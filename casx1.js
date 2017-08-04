@@ -4,3 +4,6 @@ casper.start('cas1.html', function() {
         path: '//*[@class="plop"]'
     }, 'the element exists');
 });
+
+
+//xpath1
